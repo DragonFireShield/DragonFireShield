@@ -1,0 +1,10 @@
+- 👋 Hi, I’m @DragonFireShield
+- 👀 I’m interested in Web3, crypto, DLT, AI, math, physics, philosophy
+- 🌱 I’m currently enrolled in a Solidity Foundations Bootcamp and I'm learning web development online.
+- 💞️ I’m looking to collaborate on ...
+- 📫 You can reach out to me on Twitter: https://twitter.com/shieldfordragon
+
+<!---
+DragonFireShield/DragonFireShield is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
