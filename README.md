@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DragonFireShield
 - 👀 I’m interested in web3, crypto, DLT, AI, math, physics, philosophy, art.
-- 🌱 I’m currently enrolled in a Solidity Foundations Bootcamp. I'm also learning web development, Python and SQL.
-- 💞️ I’m looking to collaborate on a NFT art project.
+- 🌱 I’ve participated in Solidity Foundations Bootcamp. Curently learning web development, Python and SQL.
+- 💞️ I’m looking to collaborate on a NFT art project or dapp.
 - 📫 You can reach out to me on Twitter: https://twitter.com/shieldfordragon
 
 <!---
